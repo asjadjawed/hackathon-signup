@@ -1,2 +1,12 @@
-# hackathon-signup
-A landing page for the Y3K Hackathon!
+## Hackathon 3K
+
+A landing page for Hackathon 3000 event!
+
+Issue: Broken SignUp button - needs fixing!
+
+Uses:
+
+* HTML5
+* Google Fonts
+* CSS -  Flexbox / Animations
+* Animate.css

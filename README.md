@@ -8,7 +8,7 @@ Issue: Broken SignUp button - needs fixing!
 
 Uses:
 
-* HTML5
-* Google Fonts
-* CSS -  Flexbox / Animations
-* Animate.css
+- HTML5
+- Google Fonts
+- CSS - Flexbox / Animations
+- Animate.css

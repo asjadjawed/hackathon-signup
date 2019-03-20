@@ -85,9 +85,10 @@ button {
 }
 
 button:focus {
-  animation: hinge 750ms;
+  animation: hinge 750ms forwards;
 }
 
+/* From animate.css */
 @keyframes pulse {
   from {
     transform: scale3d(1, 1, 1);

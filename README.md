@@ -1,6 +1,6 @@
 ## Hackathon 3K
 
-Live: [https://asjadjawed.github.io/hackathon-signup/](https://asjadjawed.github.io/hackathon-signup/)
+Live: [https://asjad.dev/hackathon-signup/](https://asjad.dev/hackathon-signup/)
 
 A landing page for Hackathon 3000 event!
 
